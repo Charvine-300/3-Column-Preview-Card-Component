@@ -18,14 +18,8 @@ body {
 }
 
 .box1 {
-    width: 295px;
+    width: 300px;
     height: 500px;
-    padding: 30px;
-<<<<<<< HEAD
-    margin: 20px;
-=======
-    padding-left: 40px;
->>>>>>> roughB
     color: #f5f5f5;
     background-color: #b87904;
     border-top-left-radius: 20px;
